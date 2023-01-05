@@ -1,4 +1,4 @@
-module github.com/AntHuabei/websocket
+module github.com/AntHuabei/golang-socketio
 
 go 1.18
 
